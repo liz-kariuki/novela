@@ -5,7 +5,6 @@ title: My Sample Page
 excerpt: This is my Sample Page
 date: 2021-06-15T21:00:00+00:00
 hero: ''
-draft: true
 
 ---
 Lorem ipsum dolor **sit amet**, consectetur adipiscing elit. In at tellus felis. Proin vulputate est erat. Cras viverra sem urna, ut aliquet quam condimentum commodo. Nulla mattis dignissim risus, eget porta metus laoreet ut. Cras volutpat sit amet neque at consectetur. Nam sit amet nisl vel nulla faucibus aliquam. Nunc congue sapien nec tortor imperdiet, quis semper mi vulputate. Nullam ut sodales urna. Nunc porta consectetur sapien, vel varius felis malesuada at. Integer quis varius ligula. Vestibulum eu pharetra neque. Nunc suscipit, lectus sed fermentum venenatis, ligula erat lobortis turpis, nec faucibus mauris diam nec erat. Aliquam accumsan nisl ac volutpat volutpat. Morbi a rhoncus libero, sed sodales enim.
